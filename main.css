@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{background-color:#111;height:100vh;margin:0;overflow:hidden}.container,body{align-items:center;display:flex;justify-content:center}.container{flex-wrap:wrap;max-width:700px}.sq{background:#1d1d1d;box-shadow:0 0 2px #000;height:16px;margin:2px;transition:2s ease-in-out;width:16px}.sq:hover{transition-duration:0s}
